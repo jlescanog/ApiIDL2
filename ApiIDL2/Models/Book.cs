@@ -1,6 +1,6 @@
 ﻿namespace ApiIDL2.Models
 {
-    public class Libros
+    public class Book
     {
         public int Id { get; set; }
         public string Titulo { get; set; }
